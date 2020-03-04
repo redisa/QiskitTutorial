@@ -6,5 +6,6 @@ dependencies:
 - notebook
 - ipywidgets
 - rise
+- networkx=2.3
 - pip:
   - qiskit==0.7.0
