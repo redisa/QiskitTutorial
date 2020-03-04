@@ -6,5 +6,6 @@ dependencies:
 - notebook
 - ipywidgets
 - rise
+- nbformat
 - pip:
   - qiskit==0.7.0
