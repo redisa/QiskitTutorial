@@ -8,4 +8,4 @@ dependencies:
 - rise
 - networkx=2.3
 - pip:
-  - qiskit==0.0.7
+  - qiskit==0.7.0
