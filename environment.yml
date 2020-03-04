@@ -7,4 +7,4 @@ dependencies:
 - ipywidgets
 - rise
 - pip:
-  - qiskit
+  - qiskit=0.7.0
