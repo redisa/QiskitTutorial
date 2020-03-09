@@ -1,11 +1,11 @@
 name: Qiskitenv
 dependencies:
-- python=3
-- pip=18
+- python
+- pip
 - matplotlib
 - notebook
 - ipywidgets
 - rise
-- networkx=2.3
+- networkx
 - pip:
   - qiskit
